@@ -64,14 +64,17 @@ task-manager-mvc
 ## Run Instructions
 
 Install dependencies:
+
 pip install flask
 pip install flask-mysqldb
 
 
 Run the application:
+
 python app.py
 
 Open in browser:
+
 http://127.0.0.1:5000
 
 ---
