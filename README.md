@@ -42,21 +42,25 @@ Table: **tasks**
 
 ---
 
+
+
 ## Project Structure
 
+```
 task-manager-mvc
 │
 ├── app.py
 │
 ├── templates
-│ ├── index.html
-│ ├── add_task.html
-│ └── edit_task.html
+│   ├── index.html
+│   ├── add_task.html
+│   └── edit_task.html
 │
 ├── static
-│ └── style.css
+│   └── style.css
 │
 └── README.md
+```
 
 
 ---
