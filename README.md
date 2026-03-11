@@ -41,7 +41,22 @@ Table: **tasks**
 | updated_on | TIMESTAMP | Last updated time |
 
 ---
+## ER Diagram
 
+```
++----------------------+
+|        TASKS         |
++----------------------+
+| id (Primary Key)     |
+| title                |
+| description          |
+| duedate              |
+| status               |
+| remarks              |
+| created_on           |
+| updated_on           |
++----------------------+
+```
 
 
 ## Project Structure
